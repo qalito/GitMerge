@@ -5,4 +5,7 @@ public class Main {
     public void print(int a){
         System.out.println("Aaaaaaaa");
     }
+    public void printB(){
+
+    }
 }

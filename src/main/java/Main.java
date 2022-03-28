@@ -8,4 +8,7 @@ public class Main {
     public void printB(){
 
     }
+    public void printL(){
+        System.out.println("Lllllllll");
+    }
 }
